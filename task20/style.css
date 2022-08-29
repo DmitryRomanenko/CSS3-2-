@@ -1,0 +1,10 @@
+div {
+  width: 200px;
+  height: 200px;
+  background: linear-gradient(
+    67.5deg,
+    rgba(0, 128, 0, 1) 0%,
+    rgba(139, 0, 255, 1) 25%,
+    rgba(255, 255, 0, 1) 95%
+  );
+}

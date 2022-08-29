@@ -1,0 +1,30 @@
+table {
+  width: 340px;
+  height: 370px;
+  border-collapse: collapse;
+}
+td {
+  background-color: red;
+}
+td:first-child {
+  background-color: blue;
+}
+.round {
+  background-color: blue;
+  border-radius: 50%;
+}
+.i-top {
+  border-radius: 50% 50% 0 0;
+}
+.i-bottom {
+  border-radius: 0 0 50% 50%;
+}
+.e-top-left {
+  border-radius: 36% 0 0 0;
+}
+.e-bottom-left {
+  border-radius: 0 0 0 36%;
+}
+.e-silde {
+  border-radius: 0 50% 50% 0;
+}

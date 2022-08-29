@@ -1,0 +1,11 @@
+div {
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 450px;
+  height: 250px;
+  background-image: url('https://cdn.iconscout.com/icon/free/png-128/javascript-2653297-2202969.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-shadow: inset 50px -50px 17px 20px darkgreen, inset -50px 50px 17px 20px #000000,
+    50px 33px 11px 1px blue, -33px -50px 11px 1px red;
+}

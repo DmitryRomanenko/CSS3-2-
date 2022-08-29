@@ -1,0 +1,26 @@
+body {
+  background-image: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=2000');
+}
+p {
+  font-weight: bold;
+  line-height: 30px;
+  font-size: 14px;
+}
+.hex {
+  color: #ffa500;
+}
+.color-name {
+  color: red;
+}
+.rgb {
+  color: rgb(82, 75, 185);
+}
+.rgba {
+  color: rgba(255, 0, 157, 0.7);
+}
+.hsl {
+  color: hsl(187, 61%, 54%);
+}
+.hsla {
+  color: hsla(250, 61%, 54%, 0.6);
+}

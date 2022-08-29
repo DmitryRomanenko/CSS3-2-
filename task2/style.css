@@ -1,0 +1,29 @@
+/* HEX */
+/* p {
+  color: #0000ff;
+} */
+
+/* RGB */
+/* p {
+  color: rgb(0, 0, 255);
+} */
+
+/* colorName */
+/* p {
+  color: blue;
+} */
+
+/* HSL */
+p {
+  color: hsl(240, 100%, 50%);
+}
+
+/* Opacity */
+/* body {
+  opacity: 0.3;
+} */
+
+/* rgba */
+body {
+  background: rgba(0, 0, 0, 0.3);
+}
